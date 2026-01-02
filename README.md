@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Smithy305
-- 👀 I’m interested in computer vision, indie music and basketball
-- 🌱 I’m currently learning how blurriness can affect image classification tasks
-- 💞️ I’m looking to collaborate on anything interesting and computer vision based
-- 📫 How to reach me: joe.gc.smith@gmail.com
+- 👋 Hi, I’m Joe
+- 👀 I’m interested in computer vision, deep learning and data science
+- 🌱 I’m currently learning how I can apply the skills I've gained from my PhD to new generative based tasks
+- 💼 I’m currently looking for jobs in computer vision, deep learning, finance and data science
+- 📫 How to reach me: j.smith57@newcastle.ac.uk
 
 <!---
 Smithy305/Smithy305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
