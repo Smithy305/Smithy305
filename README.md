@@ -1,7 +1,6 @@
 # Joseph Smith
 
-![Robust Computer Vision banner dark](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn#gh-dark-mode-only)
-![Robust Computer Vision banner light](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:dbeafe,35:bfdbfe,70:bbf7d0,100:e2e8f0&text=Robust%20Computer%20Vision&fontColor=0f172a&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn#gh-light-mode-only)
+![Robust Computer Vision banner](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn)
 
 <p align="center">
   <a href="https://joesmithvision.com"><img src="https://img.shields.io/badge/Website-0B3D91?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
