@@ -1,7 +1,11 @@
 # Joseph Smith
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=44&desc=Research%20that%20survives%20the%20real%20world&descAlignY=67" alt="Robust Computer Vision banner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:dbeafe,35:bfdbfe,70:bbf7d0,100:e2e8f0&text=Robust%20Computer%20Vision&fontColor=0f172a&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:dbeafe,35:bfdbfe,70:bbf7d0,100:e2e8f0&text=Robust%20Computer%20Vision&fontColor=0f172a&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn" alt="Robust Computer Vision banner" />
+  </picture>
 </p>
 
 <p align="center">
