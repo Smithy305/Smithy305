@@ -3,9 +3,9 @@
 ![Robust Computer Vision banner](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn)
 
 <p align="center">
-  <a href="https://joesmithvision.com"><img src="https://img.shields.io/badge/Website-0B3D91?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://joe-smith-computer-vision.com"><img src="https://img.shields.io/badge/Website-0B3D91?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/joe-smith-08039b190/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=hb_vGvoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.co.uk/citations?user=hb_vGvoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="mailto:j.smith57@newcastle.ac.uk"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -26,7 +26,7 @@ I care less about models that only look good on clean benchmarks and more about 
 That has pushed my work toward:
 
 - fine-grained visual classification under image quality variation
-- explainability for debugging model behavior rather than decorating papers
+- explainability for debugging model behaviour rather than decorating papers
 - segmentation re-adaptation under domain shift
 - synthetic data pipelines that improve real-world robustness
 - anti-counterfeiting and industrial inspection where failure actually matters
@@ -65,8 +65,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5" />
-  <img src="https://img.shields.io/badge/AirSim-0EA5E9?style=for-the-badge" alt="AirSim" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" alt="Linux" />
 </p>
 
