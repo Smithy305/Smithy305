@@ -1,4 +1,4 @@
-# Joseph Smith
+# Joe Smith
 
 ![Robust Computer Vision banner](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:081c15,35:1b4332,70:0b3d91,100:111827&text=Robust%20Computer%20Vision&fontColor=ffffff&fontSize=42&desc=Research%20that%20survives%20the%20real%20world&descAlignY=65&descSize=22&animation=fadeIn)
 
@@ -10,7 +10,7 @@
 </p>
 
 ```text
-Joseph.run()
+Joe.run()
 ├── role: Computer Vision Researcher / ML Engineer
 ├── focus: robust, explainable, deployment-aware deep learning
 ├── phd: Newcastle University (viva passed March 13, 2026)
